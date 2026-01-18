@@ -7,7 +7,7 @@ print(a+ " " + b) # concatenation
 # Indexing concept
 print(len(a)) # length of string
 print(a[1:3]) # slicing concept
-print(a[1::3]) # slicing and gaping concept
+print(a[1::3]) # slicing and gaping (by 2) concept
 print(b[-2:-1]) # negative slicing and indexing
 
 # Case Conversion
