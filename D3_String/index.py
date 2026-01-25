@@ -28,7 +28,7 @@ print(b.endswith('v')) # same as above
 print(b.strip()) # remove the space from the both sides
 print(b.lstrip()) # same but from left side
 print(b.rstrip()) # right side
-print(a.replace('bh', 'v')) # right side
+print(a.replace('bh', 'v')) # it replace 'bh' instead of 'v'
 
 # Splitting and Joining
 print(b.split()) # it converts string into list form
